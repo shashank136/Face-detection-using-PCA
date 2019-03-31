@@ -38,6 +38,7 @@ Principal component analysis (PCA) is a statistical procedure that uses an ortho
 PCA is many advantages when applied to ML algorihtms:
 
 * Dimensionality reduction
+* Feature transformation
 * Data visualisation
 * Speeds up the machine learning algorithms
 
@@ -45,3 +46,10 @@ PCA is many advantages when applied to ML algorihtms:
 
 PCA transforms the data into a new coordinate system such that the greatest variance by some projection of the data comes to lie on the first coordinate(called the principal component), the second greatest varaince on the second coordinate, and so on.
 
+<img src="https://github.com/shashank136/Face-detection-using-PCA/blob/master/pca.png" width="350" title="hover text">
+
+The idea is to increase the variance and decrease the total sum of distance of each points from the PC. In above figure the PC1 has maximum variance and minimum total distance sum compared to PC2.
+
+#### Results for face recognition
+
+![png](https://github.com/shashank136/Face-detection-using-PCA/blob/master/result.png)
