@@ -29,7 +29,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 ### Dataset
 
-We have three WAVE files, each of which is a mix
+The dataset used in this example is a preprocessed excerpt of the [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 
 ## Principal component analysis (PCA)
 
